@@ -1,0 +1,23 @@
+.heading {
+    background-color: green;
+    font-weight: 700;
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.button {
+    width: 50px;
+    height: 150px;
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
